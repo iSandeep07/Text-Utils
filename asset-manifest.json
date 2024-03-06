@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iSandeep07.github.io/my-app/static/css/main.347e985c.css",
+    "main.js": "/iSandeep07.github.io/my-app/static/js/main.24768306.js",
+    "static/js/453.ed3810f9.chunk.js": "/iSandeep07.github.io/my-app/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/iSandeep07.github.io/my-app/index.html",
+    "main.347e985c.css.map": "/iSandeep07.github.io/my-app/static/css/main.347e985c.css.map",
+    "main.24768306.js.map": "/iSandeep07.github.io/my-app/static/js/main.24768306.js.map",
+    "453.ed3810f9.chunk.js.map": "/iSandeep07.github.io/my-app/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.347e985c.css",
+    "static/js/main.24768306.js"
+  ]
+}
